@@ -61,5 +61,5 @@
 @property (nonatomic, copy) NSArray *enclosures;
 @property (nonatomic, copy) NSString *category;
 @property (nonatomic, copy) NSString *commentsLink;
-
+@property (nonatomic, copy) NSString *content2;
 @end
